@@ -1,2 +1,6 @@
 Today is a good day,
 and this is my second line.
+
+sky
+blue
+sun
